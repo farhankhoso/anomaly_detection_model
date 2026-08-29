@@ -4,7 +4,7 @@ A Streamlit web app for visual defect detection, built on a frozen **ResNet50** 
 
 ## Screenshots
 
-!(app_demo.png)
+!![App screenshot](app_demo.png)
 
 ## How it works
 
